@@ -17,11 +17,12 @@ We have categories (Assets, Building, Data Pack, Features, and Procedures) where
 - 🟦 [Procedure Projects](https://github.com/TheShadowModsUK/MCRProjects/discussions/categories/procedure-projects)
 
 # Disclaimer & License
-Please read the [disclaimer page](https://github.com/MCreator-Examples/Projects/blob/main/DISCLAIMER.md) before you download any workspace.  
-You can find use rights on the [license page](https://github.com/MCreator-Examples/Projects/blob/main/License.md) that covers all downloads and their files.
+This is not an official repository of PYLO or MCreator or any of the creators of the tuts or files and is maintained by TheShaodModsUK. These workspaces and project files are designed for the versions of MCreator that they were made on and may not work in newer/older versions of the software.
+
+Me, MCreator or the creators is not liable for anything that happens after the files are downloaded. All files do not contain any virus upon uploading them to their pages, any third-party sites that distribute the files should be used with caution.
 
 # Tutorial Suggestions
-You can share your suggestions here on the [Feedback repository](https://github.com/MCreator-Examples/Feedback).
+You can share your suggestions here on the [Feedback repository](https://github.com/TheShadowModsUK/Feedback).
 
 # News & Updates
 ## November 26th, 2024 - Created this unoffical fork.
