@@ -26,5 +26,6 @@ We have categories (Assets, Building, Data Pack, Features, and Procedures) where
 You can share your suggestions here on the [Feedback repository](https://github.com/TheShadowModsUK/Feedback).
 
 # News & Updates
-> [!NOTE] November 26th 2024
+> [!NOTE]
+>  ## November 26th 2024
 > Created this backup project but also plan to add other creators.
