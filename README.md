@@ -22,10 +22,12 @@ We have categories (Assets, Building, Data Pack, Features, and Procedures) where
 > 
 > Me, MCreator or the creators is not liable for anything that happens after the files are downloaded. All files do not contain any virus upon uploading them to their pages, any third-party sites that distribute the files should be used with caution.
 
-# Tutorial Suggestions
-You can share your suggestions here on the [Feedback repository](https://github.com/TheShadowModsUK/Feedback).
-
 # News & Updates
+<!--
+> [!TIP]
+> ## Date
+> News
+-->
 > [!NOTE]
 >  ## November 26th 2024
 > Created this backup project but also plan to add other creators.
