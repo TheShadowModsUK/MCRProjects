@@ -5,7 +5,8 @@ This repository is not associated with Pylo or MCreator and most likely the crea
 
 # Documents
 You can find documents and charts I have made in the /documents folder in the code window.
-- [Document Folder]([https://github.com/MCreator-Examples/Projects/tree/main/Documents](https://github.com/TheShadowModsUK/MCRProjects/tree/main/Documents))
+- [Document Folder](https://github.com/TheShadowModsUK/MCRProjects/tree/main/Documents)
+
 # Project File Categories
 You can find project downloads under the discussions tab of this repository.  
 We have categories (Assets, Building, Data Pack, Features, and Procedures) where we publish our downloads.
