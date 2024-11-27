@@ -1,7 +1,7 @@
 # MCreator Examples Projects
 This is the unofficial place to download tutorials that others have covered for [MCreator](https://mcreator.net/) on there YouTube like channels called [NorthWestTrees Gaming](https://www.youtube.com/channel/UC8XYkALuEvGlKhza5Uyb7uQ) or discord/forums/reddit.   
   
-This repository is not associated with Pylo or MCreator and most likely the creators but does provide useful examples of things I have done in the past with the software. Feel free to use them however you like in your mods or projects.
+This repository is not associated with Pylo or MCreator and most likely the creators but does provide useful examples for MCreator. Feel free to use them however you like in your mods or projects.
 
 <!--
 # Documents
