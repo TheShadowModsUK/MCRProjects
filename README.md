@@ -3,10 +3,11 @@ This is the unofficial place to download tutorials that others have covered for 
   
 This repository is not associated with Pylo or MCreator and most likely the creators but does provide useful examples of things I have done in the past with the software. Feel free to use them however you like in your mods or projects.
 
+<!--
 # Documents
 You can find documents and charts I have made in the /documents folder in the code window.
 - [Document Folder](https://github.com/TheShadowModsUK/MCRProjects/tree/main/Documents)
-
+-->
 # Project File Categories
 You can find project downloads under the discussions tab of this repository.  
 We have categories (Assets, Building, Data Pack, Features, and Procedures) where we publish our downloads.
@@ -25,4 +26,5 @@ We have categories (Assets, Building, Data Pack, Features, and Procedures) where
 You can share your suggestions here on the [Feedback repository](https://github.com/TheShadowModsUK/Feedback).
 
 # News & Updates
-## November 26th, 2024 - Created this unoffical fork.
+> [!NOTE] November 26th 2024
+> Created this backup project but also plan to add other creators.
